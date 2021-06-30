@@ -1,9 +1,9 @@
 {
-  "name": "gatsby-emotion-tailwind-starter",
-  "description": "A starter Gatsby site which includes Emotion and Tailwind",
+  "name": "randomlang-homepage",
+  "description": "official site of randomlang",
   "version": "3.0.0",
-  "author": "Chris Williams",
-  "repository": "https://github.com/chrismwilliams/gatsby-emotion-tailwind-starter",
+  "author": "Ayush Pathak",
+  "repository": "https://github.com/randomlang/homepage",
   "dependencies": {
     "@emotion/react": "^11.1.5",
     "@emotion/styled": "^11.1.5",

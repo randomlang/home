@@ -2,10 +2,10 @@ require('dotenv').config({ path: `.env` });
 
 module.exports = {
   siteMetadata: {
-    author: `Chris Williams`,
-    title: `Gatsby Emotion Tailwind Starter`,
-    description: `An example Gatsby starter making use of emotion and tailwind`,
-    siteUrl: `https://gatsby-emotion-tailwind-starter.netlify.app/`,
+    author: `Ayush Pathak`,
+    title: `Randomlang`,
+    description: `Official site for randomlang`,
+    siteUrl: `https://randomlang.aysh.me/`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
@@ -37,8 +37,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Gatsby Emotion Tailwind Starter`,
-        short_name: `GatsbyJS`,
+        name: `Randomlang`,
+        short_name: `Randomlang`,
         start_url: `/`,
         background_color: `#ffffff`,
         theme_color: `#663399`,
