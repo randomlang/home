@@ -1,2 +1,2 @@
-# home
-the randomlang homepage
+# Randomlang's homepage
+(WIP)
